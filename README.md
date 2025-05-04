@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate DevOps from Nepal</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
 - 🔭 I’m currently working on **Fitness-App**
 
