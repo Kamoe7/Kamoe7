@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-
-- 🔭 I’m currently working on **Web-development**
-
-- 🌱 I’m currently learning **Docker and rabbitMQ**
-
-- 📫 How to reach me **susling11@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
