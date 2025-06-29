@@ -21,8 +21,8 @@ Welcome to my GitHub profile!
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](susling11@gmail.com)r)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/sagar-susleen-727a0a275)
+- Email: [susling11@gmail.com]
+- LinkedIn: [www.linkedin.com/in/sagar-susleen-727a0a275]
 
 ## ⚡ Fun Fact
 
