@@ -15,9 +15,6 @@ Welcome to my GitHub profile!
 - React, Node.js, Django, Dart
 - Git & GitHub
 
-## 📈 GitHub Stats
-
-![Kamoe7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamoe7&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
